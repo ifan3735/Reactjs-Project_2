@@ -13,6 +13,8 @@
 
   .dark {
     background-color: rgb(14, 46, 74);
+    height: 280px;
+    border-radius: 0 0 0 200px;
   }
   
   .feature-content {
