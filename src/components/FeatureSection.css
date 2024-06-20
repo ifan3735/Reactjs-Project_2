@@ -1,0 +1,36 @@
+.feature-section {
+  display: flex;
+  flex-direction: column;
+}
+ .main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    background-color: #f7f9fb;
+    border-radius: 50px 0 50px 0; /* Adjust as needed */
+  }
+
+  .dark {
+    background-color: rgb(14, 46, 74);
+  }
+  
+  .feature-content {
+    max-width: 50%;
+  }
+  
+  .feature-content h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    color: brown;
+  }
+  
+  .feature-content p {
+    font-size: 1.2rem;
+    color: brown;
+  }
+  
+  .feature-image {
+    max-width: 40%;
+  }
+  
